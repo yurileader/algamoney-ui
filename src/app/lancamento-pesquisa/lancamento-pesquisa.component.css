@@ -1,0 +1,30 @@
+#vencimento {
+  display: block;
+}
+
+#col-vazia{
+  width: 120px;
+}
+
+.input-vencimento {
+  width: 95px;
+}
+
+.col-valor-header {
+  width: 120px;
+}
+.col-valor-content {
+  text-align: right;
+}
+
+.col-data-header {
+  width: 120px;
+}
+
+.col-data-content {
+  text-align: center;
+}
+
+.espaco-icones {
+  margin: 0 .25em!important;
+}
